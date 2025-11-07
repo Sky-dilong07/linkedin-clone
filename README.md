@@ -1,15 +1,42 @@
-# LinkedIn Clone - Phase 1 (Setup)
+💼 LinkedIn Clone
 
-This is the Phase 1 skeleton for the LinkedIn Clone assignment.
+A simple LinkedIn-style social media web app built with PHP, MySQL, HTML, CSS, and JavaScript — allowing users to sign up, log in, create posts, like, comment, and manage profiles.
 
-## How to run locally
+🚀 Features
 
-1. Ensure XAMPP is installed and **Apache is running**.
-2. Place this folder in your XAMPP htdocs: `D:\xampp\htdocs\linkedin-clone`.
-3. Open in browser: `http://localhost/linkedin-clone/`.
-4. Database is not required for Phase 1 — we'll add DB in Phase 2.
+✅ User Signup & Login
+✅ Create, Edit, and Delete Posts
+✅ Like & Comment on Posts
+✅ Upload Images with Posts
+✅ User Profile Page with Stats
+✅ Responsive & Clean UI
 
-## Next steps
+🛠️ Tech Stack
 
-- Implement signup & login (Phase 2)
-- Implement create post + feed (Phase 3)
+Frontend: HTML, CSS, JavaScript
+
+Backend: PHP (XAMPP / Apache)
+
+Database: MySQL
+
+⚙️ How to Run Locally
+
+Install XAMPP
+.
+
+Clone this repo into your htdocs folder:
+
+git clone https://github.com/your-username/linkedin-clone.git
+
+
+Start Apache and MySQL from XAMPP Control Panel.
+
+Create a database named linkedin_clone in phpMyAdmin.
+
+Import the provided SQL file or let the app create tables automatically.
+Visit:
+
+http://localhost/linkedin-clone/
+
+👨‍💻 Developer
+Saurabh Mishra
