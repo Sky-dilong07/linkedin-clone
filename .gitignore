@@ -1,0 +1,43 @@
+# ==============================================
+# LinkedIn Clone – PHP + MySQL Project
+# Ignore unnecessary and sensitive files
+# ==============================================
+
+# XAMPP system files
+xampp/
+htdocs/
+*.bat
+
+# PHPStorm / VSCode / IDE folders
+.idea/
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Composer / PHP dependencies (if any)
+vendor/
+
+# Node dependencies (not used, but safe)
+node_modules/
+
+# Uploaded images (optional – include only if you don’t want uploads in repo)
+assets/images/*
+
+# Environment or config files (optional)
+config/db.php
+.env
+
+# Log files
+*.log
+
+# Backup or temporary files
+*.bak
+*.tmp
+*.swp
+
+# Database dumps (optional)
+*.sql
